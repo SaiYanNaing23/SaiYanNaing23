@@ -26,24 +26,6 @@ Currently focused on **Frontend Development**, but I’m expanding my skills int
 🧩 Building better UI/UX experiences and mastering full-stack development with **MERN**  
 📱 Exploring **Expo** for cross-platform mobile development  
 🎨 Writing clean, scalable, and reusable frontend architectures  
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SaiYanNaing23&show_icons=true&theme=radical&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiYanNaing23&layout=compact&theme=radical" />
-</p>
-
----
-
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SaiYanNaing23&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
 ---
 
 ### 🌐 Connect with Me
@@ -59,13 +41,6 @@ Currently focused on **Frontend Development**, but I’m expanding my skills int
 
 ### ⚡ Fun Fact
 > “I believe great developers aren’t just coders — they’re creators who turn problems into possibilities.”  
-
----
-
-### 🐍 GitHub Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SaiYanNaing23/SaiYanNaing23/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 ---
 ⭐️ From [SaiYanNaing23](https://github.com/SaiYanNaing23)
